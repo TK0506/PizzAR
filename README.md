@@ -9,25 +9,19 @@ Height="370" width="210">
 Height="370" width="210">
 
 # What's this?
-**You can see the size of pizza with AR！！**
+**You can see the size of pizza with AR！！**  
+[Qiita](https://qiita.com/ikeou/items/566dc79f4cca7b91c812) 
 
 # Dependency
 Xcode 10.1  
 Swift 4.2.1  
 ARKit2.0
 
-# Setup
-セットアップ方法を書く。用意するハードウェアとソフトウェアをセットアップするためのコマンドを記載する
-
-# Usage
-使い方。なるべく具体的に書く。サンプルも書く
-
 # Authors
 **IKEOU（Takanori Ikegawa）**  
 iOS Developer in Tokyo Japan  
 - [Twitter](https://twitter.com/ikeou2)  
 - [Facebook](https://www.facebook.com/takanori.ikegawa?ref=bookmarks)
-
 
 # References
 [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor)  
