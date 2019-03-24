@@ -1,6 +1,8 @@
 # PizzAR
 
-![alt]("file:///Users/takanoriikegawa/Pictures/PizzaAR/L.jpg")
+![alt](https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg)
+<img src="https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg" 
+Height="100" width="100">
 
 # リポジトリ名
 このソフトはどんなもので、何ができるのかを書く
