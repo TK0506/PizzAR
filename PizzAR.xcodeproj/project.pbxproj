@@ -7,23 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		85307E7821FEF57A00CACF5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85307E7721FEF57A00CACF5A /* Main.storyboard */; };
+		85307E7A21FEF58800CACF5A /* L_paiza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85307E7921FEF58800CACF5A /* L_paiza.swift */; };
+		85307E7C21FEF59100CACF5A /* M-pizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85307E7B21FEF59100CACF5A /* M-pizza.swift */; };
+		85307E7E21FEF59700CACF5A /* S_pizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85307E7D21FEF59700CACF5A /* S_pizza.swift */; };
+		85307E8021FEF5A400CACF5A /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 85307E7F21FEF5A400CACF5A /* art.scnassets */; };
+		85307E8221FEF5BC00CACF5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85307E8121FEF5BC00CACF5A /* Assets.xcassets */; };
+		85307E8421FEF76B00CACF5A /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85307E8321FEF76B00CACF5A /* SettingViewController.swift */; };
 		85A75B8021FEF4AF00C33D6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A75B7F21FEF4AF00C33D6A /* AppDelegate.swift */; };
 		85A75B8221FEF4AF00C33D6A /* Scene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 85A75B8121FEF4AF00C33D6A /* Scene.sks */; };
 		85A75B8421FEF4AF00C33D6A /* Scene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A75B8321FEF4AF00C33D6A /* Scene.swift */; };
-		85A75B8621FEF4AF00C33D6A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85A75B8521FEF4AF00C33D6A /* ViewController.swift */; };
-		85A75B8921FEF4AF00C33D6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85A75B8721FEF4AF00C33D6A /* Main.storyboard */; };
-		85A75B8B21FEF4B000C33D6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85A75B8A21FEF4B000C33D6A /* Assets.xcassets */; };
 		85A75B8E21FEF4B000C33D6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85A75B8C21FEF4B000C33D6A /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		85307E7721FEF57A00CACF5A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		85307E7921FEF58800CACF5A /* L_paiza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = L_paiza.swift; sourceTree = "<group>"; };
+		85307E7B21FEF59100CACF5A /* M-pizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "M-pizza.swift"; sourceTree = "<group>"; };
+		85307E7D21FEF59700CACF5A /* S_pizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = S_pizza.swift; sourceTree = "<group>"; };
+		85307E7F21FEF5A400CACF5A /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		85307E8121FEF5BC00CACF5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		85307E8321FEF76B00CACF5A /* SettingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		85A75B7C21FEF4AE00C33D6A /* PizzAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PizzAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		85A75B7F21FEF4AF00C33D6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85A75B8121FEF4AF00C33D6A /* Scene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Scene.sks; sourceTree = "<group>"; };
 		85A75B8321FEF4AF00C33D6A /* Scene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scene.swift; sourceTree = "<group>"; };
-		85A75B8521FEF4AF00C33D6A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		85A75B8821FEF4AF00C33D6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		85A75B8A21FEF4B000C33D6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85A75B8D21FEF4B000C33D6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		85A75B8F21FEF4B000C33D6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,10 +69,14 @@
 				85A75B7F21FEF4AF00C33D6A /* AppDelegate.swift */,
 				85A75B8121FEF4AF00C33D6A /* Scene.sks */,
 				85A75B8321FEF4AF00C33D6A /* Scene.swift */,
-				85A75B8521FEF4AF00C33D6A /* ViewController.swift */,
-				85A75B8721FEF4AF00C33D6A /* Main.storyboard */,
-				85A75B8A21FEF4B000C33D6A /* Assets.xcassets */,
+				85307E8321FEF76B00CACF5A /* SettingViewController.swift */,
+				85307E7D21FEF59700CACF5A /* S_pizza.swift */,
+				85307E7B21FEF59100CACF5A /* M-pizza.swift */,
+				85307E7921FEF58800CACF5A /* L_paiza.swift */,
+				85307E7721FEF57A00CACF5A /* Main.storyboard */,
 				85A75B8C21FEF4B000C33D6A /* LaunchScreen.storyboard */,
+				85307E8121FEF5BC00CACF5A /* Assets.xcassets */,
+				85307E7F21FEF5A400CACF5A /* art.scnassets */,
 				85A75B8F21FEF4B000C33D6A /* Info.plist */,
 			);
 			path = PizzAR;
@@ -129,9 +141,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				85A75B8221FEF4AF00C33D6A /* Scene.sks in Resources */,
+				85307E8021FEF5A400CACF5A /* art.scnassets in Resources */,
 				85A75B8E21FEF4B000C33D6A /* LaunchScreen.storyboard in Resources */,
-				85A75B8B21FEF4B000C33D6A /* Assets.xcassets in Resources */,
-				85A75B8921FEF4AF00C33D6A /* Main.storyboard in Resources */,
+				85307E7821FEF57A00CACF5A /* Main.storyboard in Resources */,
+				85307E8221FEF5BC00CACF5A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,23 +155,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85A75B8621FEF4AF00C33D6A /* ViewController.swift in Sources */,
+				85307E7E21FEF59700CACF5A /* S_pizza.swift in Sources */,
+				85307E7A21FEF58800CACF5A /* L_paiza.swift in Sources */,
+				85307E7C21FEF59100CACF5A /* M-pizza.swift in Sources */,
 				85A75B8421FEF4AF00C33D6A /* Scene.swift in Sources */,
 				85A75B8021FEF4AF00C33D6A /* AppDelegate.swift in Sources */,
+				85307E8421FEF76B00CACF5A /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		85A75B8721FEF4AF00C33D6A /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				85A75B8821FEF4AF00C33D6A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		85A75B8C21FEF4B000C33D6A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -297,7 +305,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "pj.kooltuo-09910udc.PizzAR";
+				PRODUCT_BUNDLE_IDENTIFIER = "pj.kooltuo-09910udc.pizzaar";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,7 +323,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "pj.kooltuo-09910udc.PizzAR";
+				PRODUCT_BUNDLE_IDENTIFIER = "pj.kooltuo-09910udc.pizzaar";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

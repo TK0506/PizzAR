@@ -3,9 +3,6 @@
 //  PizzAR
 //
 //  Created by Takanori Ikegawa on 2019/01/28.
-//  Copyright © 2019年 Takanori Ikegawa. All rights reserved.
-//
-
 import SpriteKit
 import ARKit
 
