@@ -10,7 +10,7 @@ Height="370" width="210">
 
 # What's this?
 **You can see the size of pizza with AR！！**  
-[Qiita](https://qiita.com/ikeou/items/566dc79f4cca7b91c812) 
+- [Qiita Article](https://qiita.com/ikeou/items/566dc79f4cca7b91c812) 
 
 # Dependency
 Xcode 10.1  
