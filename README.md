@@ -1,8 +1,13 @@
 # PizzAR
 
-
 <img src="https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg" 
-Height="２00" width="１00">
+Height="370" width="210">
+<img src="https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg" 
+Height="370" width="210">
+<img src="https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg" 
+Height="370" width="210">
+<img src="https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg" 
+Height="370" width="210">
 
 # リポジトリ名
 このソフトはどんなもので、何ができるのかを書く
