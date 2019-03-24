@@ -1,5 +1,4 @@
 # PizzAR
-
 <img src="https://user-images.githubusercontent.com/39023006/54884256-209fce80-4eb2-11e9-8a43-36a5fdf9226d.jpg" 
 Height="370" width="210">
 <img src="https://user-images.githubusercontent.com/39023006/54884264-2f868100-4eb2-11e9-8629-642791eca200.jpg"
@@ -9,13 +8,13 @@ Height="370" width="210">
 <img src="https://user-images.githubusercontent.com/39023006/54884269-390fe900-4eb2-11e9-913c-97ffa416587e.jpg" 
 Height="370" width="210">
 
-# リポジトリ名
-このソフトはどんなもので、何ができるのかを書く
-合わせて、簡単なデモ（使用例）などスクリーンショットやGIFアニメで表示
+# What's this?
+**You can see the size of pizza with AR！！**
 
 # Dependency
-使用言語とバージョン、必要なライブラリとそのバージョンを書く
-Pythonならrequirements.txtを用意するのも良い
+Xcode 10.1
+Swift 4.2.1
+ARKit2.0
 
 # Setup
 セットアップ方法を書く。用意するハードウェアとソフトウェアをセットアップするためのコマンドを記載する
@@ -23,11 +22,13 @@ Pythonならrequirements.txtを用意するのも良い
 # Usage
 使い方。なるべく具体的に書く。サンプルも書く
 
-# Licence
-This software is released under the MIT License, see LICENSE.
-
 # Authors
-作者を明示する。特に、他者が作成したコードを利用する場合は、そのコードのライセンスに従った上で、リポジトリのそれぞれのコードのオリジナルの作者が誰か分かるように明示する（私はそれが良いと思い自主的にしています）。
+**IKEOU（Takanori Ikegawa）**
+iOS Developer in Tokyo Japan
+- [Twitter](https://twitter.com/ikeou2)
+- [Facebook](https://www.facebook.com/takanori.ikegawa?ref=bookmarks)
+
 
 # References
-参考にした情報源（サイト・論文）などの情報、リンク
+[ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor)
+[SwiftでつくるARKit超入門](http://nn-hokuson.hatenablog.com/entry/2018/10/09/183255)
