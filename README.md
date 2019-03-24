@@ -12,8 +12,8 @@ Height="370" width="210">
 **You can see the size of pizza with AR！！**
 
 # Dependency
-Xcode 10.1
-Swift 4.2.1
+Xcode 10.1  
+Swift 4.2.1  
 ARKit2.0
 
 # Setup
@@ -23,12 +23,12 @@ ARKit2.0
 使い方。なるべく具体的に書く。サンプルも書く
 
 # Authors
-**IKEOU（Takanori Ikegawa）**
-iOS Developer in Tokyo Japan
-- [Twitter](https://twitter.com/ikeou2)
+**IKEOU（Takanori Ikegawa）**  
+iOS Developer in Tokyo Japan  
+- [Twitter](https://twitter.com/ikeou2)  
 - [Facebook](https://www.facebook.com/takanori.ikegawa?ref=bookmarks)
 
 
 # References
-[ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor)
+[ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor)  
 [SwiftでつくるARKit超入門](http://nn-hokuson.hatenablog.com/entry/2018/10/09/183255)
